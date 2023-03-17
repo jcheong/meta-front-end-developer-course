@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 1rem 3rem 1rem 3rem;
+}
+
+#footer-logo {
+    width: 3rem;
+    height: 3rem;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+header > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 7rem;
+    height: 10rem;
+    padding-bottom: 1rem;
+}
+
+nav {
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+}
+
+section {
+    display: flex;
+}
+
+article {
+    flex: 1;
+    margin: 0.5rem;
+    background-color: #F3ECEC;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+article > img {
+    margin: 0.5rem auto;
+}
+
+footer {
+    display: flex;
+    margin: auto 0.5rem;
+    padding: 1rem 1rem;
+    background-color: #F3ECEC;
+    border-radius: 1rem;
+    align-items: center;
+}
+
+footer div {
+    flex: 1;
+}
+
+.image-articles {
+    max-width: 100%;
+    height: auto;
+}
+
+p {
+    text-align: justify;
+}
+
+a.button {
+    display: inline-block;
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 150px;
+    margin: 5px;
+}
+
+a.button:hover {
+    color:darkseagreen;
+}
+
+#copyright {
+    text-align: right;
+}
