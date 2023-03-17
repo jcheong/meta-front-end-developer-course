@@ -16,6 +16,7 @@
   <li>
     <h2>Chapter 4 - HTML and CSS in depth</h2>
     <p><a href="https://www.coursera.org/account/accomplishments/certificate/HZJMGTF98B7V">Certificate</a></p>
+    <p><a href="https://github.com/jcheong/meta-front-end-developer-course/tree/main/chapter-2-project-portfolio">Project porftfolio</a></p>
   </li>
   <li>
     <h2>Chapter 5 - React Basics</h2>
