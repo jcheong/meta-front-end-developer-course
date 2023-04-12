@@ -20,7 +20,7 @@
   </li>
   <li>
     <h2>Chapter 5 - React Basics</h2>
-    <p>Certificate</p>
+    <p><a href="https://www.coursera.org/account/accomplishments/certificate/H7RX3N2GW4QN">Certificate</p>
   </li>
   <li>
     <h2>Chapter 6 - Advanced React</h2>
